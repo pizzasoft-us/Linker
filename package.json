@@ -7,7 +7,7 @@
   "version": "1.0.0",
   "author": "saytl",
   "scripts": {
-    "start": "electron ."
+    "start": "debug.cmd"
   },
   "devDependencies": {
     "electron": "^19.0.6"
